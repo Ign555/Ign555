@@ -1,18 +1,30 @@
-/****************************************************************
-Hello World !
-****************************************************************/
+# Hello World !
 
 ⚡ J’aime le Génie Électrique  
 ⚡ I Love Electrical Engineering  
 ⚡ 我喜欢电气工程  
 
-I use RISC-V and Arch btw 🐧
-
-🩷🩵 I also love cringe culture <3 🩵🩷
-
 Main public project in progress :  
 * SSD1306 for CH32V00X lib
 * Serial-X-PC lib 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 📋 To do list : 
 
@@ -23,3 +35,7 @@ Main public project in progress :
 * Stop doing things from scratch 🧩
 * Stop criticize python / micro-python 🐍
 * Cry 💧
+
+I use RISC-V and Arch btw 🐧
+
+🩷🩵 I also love cringe culture <3 🩵🩷

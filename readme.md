@@ -40,4 +40,4 @@ I use RISC-V and Arch btw 🐧
 
 🩷🩵 I also love cringe culture <3 🩵🩷  
 
- Rule 555 : "if it exist, you can hack it."  
+ Rule 555 : "if it exists, you can hack it."  

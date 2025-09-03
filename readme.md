@@ -5,7 +5,6 @@
 ⚡ 我喜欢电气工程  
 
 Main public project in progress :  
-* SSD1306 for CH32V00X lib
 * Serial-X-PC lib 
 
 

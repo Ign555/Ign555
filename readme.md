@@ -7,7 +7,7 @@
 Main public project in progress :  
 * Serial-X-PC lib 
 
-Main language :  
+Main languages :  
 * C / C++
 * Python
 * Verilog

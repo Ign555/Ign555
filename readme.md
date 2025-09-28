@@ -37,7 +37,8 @@ Main languages :
 * Learn more about low-level programming 🚀
 * Stop doing things from scratch 🧩
 * Stop criticize ~python~ / micro-python 🐍
-* Cry 💧
+
+Transistors are my best friends  
 
 I use RISC-V and Arch btw 🐧
 

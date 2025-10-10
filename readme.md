@@ -27,6 +27,10 @@
 <div align="left">
   <img src="https://github.com/Ign555/Ign555/blob/main/Codeblocks_logo.png?raw=true" height="40" alt="code::block logo"  />
   <img width="12" />
+  <img src="https://github.com/Ign555/Ign555/blob/main/FreeCAD-logo.svg_.png?raw=true" height="40" alt="code::block logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/Ign555/Ign555/13ac8bce8103a2270b297c4453d3473cb55f5474/KiCad_logo_square.svg" height="40" alt="code::block logo"  />
+  <img width="12" />
 </div>
 
 ###

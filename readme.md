@@ -53,7 +53,16 @@
 
 ###
 
-<p align="left">* Low level programming<br>* PCB design <br>* Hardware hacking<br>* Reverse engineering<br>* RISC-V<br><br>I would like to become a microelectronics engineer.</p>
+<ul align="left">
+<li>Low level programming</li>
+<li>PCB design <br>* Hardware hacking</li>
+<li>Reverse engineering</li>
+<li>RISC-V</li>
+</ul><br>
+
+<p align="left">
+I would like to become a microelectronics engineer.<br>
+</p>
 
 ###
 

@@ -55,7 +55,8 @@
 
 <ul align="left">
 <li>Low level programming</li>
-<li>PCB design <br>* Hardware hacking</li>
+<li>PCB design</li>
+<li>Hardware hacking</li>
 <li>Reverse engineering</li>
 <li>RISC-V</li>
 </ul><br>

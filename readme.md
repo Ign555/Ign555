@@ -43,6 +43,10 @@
   <img src="https://raw.githubusercontent.com/Ign555/Ign555/7dab212b2f3b07ba1641256a9608986b072d9016/file_type_verilog_icon_130092.svg" height="40" alt="storybook logo"  />
 </div>
 
+<div align="left">
+  <img src="https://raw.githubusercontent.com/Ign555/Ign555/7dab212b2f3b07ba1641256a9608986b072d9016/Scilab_Logo.png" height="40" alt="storybook logo"  />
+</div>
+
 ###
 
 <h2 align="left">About me</h2>

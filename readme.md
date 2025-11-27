@@ -46,6 +46,16 @@
 
 ###
 
+<h2 align="left">Main projects</h2>
+
+###
+
+<div align="left">
+  [Vue](https://github.com/vuejs/vue)
+</div>
+
+###
+
 <h2 align="left">About me</h2>
 
 ###

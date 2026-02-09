@@ -51,8 +51,8 @@
 ###
 
 <div align="left">
-  <a href="https://github.com/Ign555/CH32V00x-X-SSD1306">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ign555&repo=CH32V00x-X-SSD1306&bg_color=00000000&text_color=ffc045&title_color=2c75ff" />
+  <a href="https://ign555.github.io/CH32Vxxx/">
+    CH32Verse
   </a>
 </div>
 

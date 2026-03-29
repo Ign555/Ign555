@@ -25,7 +25,7 @@
 ###
 
 <div align="left">
-  <img src="https://github.com/Ign555/Ign555/blob/main/Codeblocks_logo.png?raw=true" height="40" alt="code::block logo"  />
+  <img src="https://github.com/Ign555/Ign555/blob/main/vscode_logo.png?raw=true" height="40" alt="code::block logo"  />
   <img width="12" />
   <img src="https://github.com/Ign555/Ign555/blob/main/FreeCAD-logo.svg_.png?raw=true" height="40" alt="code::block logo"  />
   <img width="12" />
